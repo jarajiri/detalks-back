@@ -44,8 +44,9 @@ public class WebSecurityConfig {
                 configuration.setAllowedOrigins(Arrays.asList(
                     "http://localhost:3000",
                     "http://ec2-52-78-163-112.ap-northeast-2.compute.amazonaws.com",
-                    "http://52.78.163.112",
-                    "http://www.detalks.store"));
+                    "http://13.124.92.241",
+                    "http://www.detalks.store"
+                    ));
                 configuration.setAllowedMethods(Collections.singletonList("*"));
                 configuration.setAllowCredentials(true);
                 configuration.setAllowedHeaders(Collections.singletonList("*"));
