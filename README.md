@@ -11,7 +11,7 @@
 
 ## 📬 배포 주소
 
-> **배포 버전** : [http://www.detalks.store/](http://www.detalks.store/) <br>
+> **배포 버전** : [http://13.124.92.241/](http://13.124.92.241/) <br>
 
 <br/>
 
@@ -234,7 +234,7 @@ $ npm run start
 ---
 ## 📑 아키텍쳐
 ### API 명세서
-<b>SWAGGER<b/> : http://www.detalks.store:8080/api-docs
+<b>SWAGGER<b/> : http://13.124.92.241:8080/api-docs
 <br/>
 <br/>
 
